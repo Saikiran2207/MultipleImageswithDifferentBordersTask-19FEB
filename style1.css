@@ -1,0 +1,47 @@
+body{
+    background-image: url("https://kickstart.bikeexif.com/wp-content/uploads/2023/11/2024-royal-enfield-himalayan.jpg");
+        background-repeat: no-repeat;
+    background-size: cover;
+}
+.border1{
+   /* margin-bottom: 30px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;*/
+    border: 10px double black;
+    padding:10px;
+    width:200px; height:200spx;
+}
+.border2{
+   /* margin-bottom: 30px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;*/
+    border: 10px dotted blue;
+    padding:10px;
+    width:200px; height:100spx;
+}
+.border3{
+   /* margin-bottom: 30px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;*/
+    border: 10px groove red;
+    padding:10px;
+    width:200px; height:400spx;
+}
+.border4{
+   /* margin-bottom: 30px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;*/
+    border: 10px dashed green;
+    padding:10px;
+    width:150px; height:150spx;
+}
+.image{
+    margin-bottom: 30px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
